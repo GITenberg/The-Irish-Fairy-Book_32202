@@ -1,0 +1,52 @@
+_repo: The-Irish-Fairy-Book_32202
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Denham, George
+    gutenberg_agent_id: '34914'
+    url: http://www.gutenberg.org/2009/agents/34914
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Graves, Alfred Perceval
+    alias: Graves, A. P. (Alfred Perceval)
+    birthdate: 1846
+    deathdate: 1931
+    gutenberg_agent_id: '5419'
+    url: http://www.gutenberg.org/2009/agents/5419
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Perceval_Graves
+description: ''
+gutenberg_issued: '2010-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32202'
+  lccn: '32033593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Folklore -- Ireland'
+- !lcsh 'Fairy tales -- Ireland'
+- !lcc 'PZ'
+- !lcc 'GR'
+- !lcsh 'Tales -- Ireland'
+tableOfContents: A Faery Song -- The Coming of Finn -- The Three Crowns -- The Grateful
+  Beasts -- The Lepracaun -- Daniel O'Rourke -- Cuchulain of Muirthemne -- The Boyhood
+  of Cuchulain -- The Legend of Knockgrafton -- The Stolen Child -- The Land of Youth
+  -- The Adventures of Gilla na Chreck -- The Hill-Man and the House-Wife -- The Giant
+  Walker -- The Pursuit of the Gilla Dacker -- Jamie Freel and the Young Lady -- A
+  Legend of Knockmany -- The Ninepenny Fidil -- Festivities at the House of Conan
+  -- The White Trout -- The Wonderful Cake -- The Legend of the Little Weaver -- Mor
+  of Cloyne -- Lawn Dyarrig and the knight of Terrible Valley -- The Horned Women
+  -- The Quare Gander -- The Fairies' Passage -- The King of the Black Desert -- The
+  Piper and the Puca -- The Fairy Changeling -- The Talking Head of Donn-Bo -- The
+  Bracket Bull -- The Demon Cat -- The Abbot of Inisfalen -- Morraha -- The Kildare
+  Pooka -- The King's Son -- Murtough and the Witch-Woman -- The Red Pony -- King
+  O'Toole and St. Kevin -- Lament of the Last Leprechaun -- The Corpse Watchers --
+  The Mad Pudding -- The Voyage of Maeldune.
+title: The Irish Fairy Book
+url: http://www.gutenberg.org/ebooks/32202
